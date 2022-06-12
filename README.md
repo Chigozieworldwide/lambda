@@ -31,7 +31,7 @@ python3 :)
 
 ```
 cd
-rm -rf lambda-Encryption
+rm -rf lambda
 
 $ pkg update
 $ pkg upgrade
@@ -43,9 +43,9 @@ $ pip install lolcat
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ git clone https://github.com/Chigozieworldwide/lambda-Encryption
-$ cd lambda-Encryption
-$ python lambda-Encryption.py
+$ git clone https://github.com/Chigozieworldwide/lambda
+$ cd lambda
+$ python lambda.py
 
 
 
@@ -58,7 +58,7 @@ $ python lambda-Encryption.py
 
 
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Chigozieworldwide/ASTRO ; cd ASTRO ; python ASTRO.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Chigozieworldwide/lambda ; cd lambda ; python lambda.py
 ```
  ## Support Me On
 <b>• [Youtube](https://youtube.com/channel/UCFLeodw8gk9oNcnttsOrO3A)</b>
